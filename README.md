@@ -1,6 +1,6 @@
 # My CS Degree (2020)
 
-This is a CS degree I designed for myself focusing on CS basics as well as full-stack development, deep learning and natural language processing.
+Being a software engineer with a background in Physics, I felt the lack of a CS degree had been a limiting factor in my long-term growth. To tackle it head-on, I designed this curriculum for myself with the best resources I found online, focusing on CS basics as well as full-stack development, deep learning and natural language processing.
 
 There are general knowledge courses and project courses.
 
@@ -65,8 +65,7 @@ There are general knowledge courses and project courses.
 
 #### CS506 [Natural Language Processing using Deep Learning CMU](https://www.youtube.com/playlist?list=PL8PYTP1V4I8CJ7nMxMC8aXv8WqKYwj-aJ)
 
-#### CS507 Full Stack Deep Learning
-- [Course: Full Stack Deep Learning](https://course.fullstackdeeplearning.com/)
+#### CS507 [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/)
 - [Project template](https://github.com/DanielhCarranza/ml-production-template)
 
 #### CS508 [Deep Learning for Computer Vision](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
