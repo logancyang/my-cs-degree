@@ -49,7 +49,7 @@ There are general knowledge courses and project courses.
 - [Udemy Docker course](https://www.udemy.com/course/learn-docker/)
 - [Deploy ML/DL using Docker](https://youtu.be/0qG_0CPQhpg)
 
-#### CS503 [fastai: Computation Linear Algebra by Rachel Thomas]([fast.ai](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md))
+#### CS503 [fastai: Computation Linear Algebra by Rachel Thomas](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
 
 
 #### CS504. Production Machine Learning and MLOps
