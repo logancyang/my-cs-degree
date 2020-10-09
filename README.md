@@ -128,22 +128,24 @@ There are general knowledge courses and project courses.
 
 #### CS502 NLP: projects
 - **[fastai NLP course](https://www.fast.ai/2019/07/08/fastai-nlp/)**
-- [Fast AI course v4 NLP lecture](https://course.fast.ai/videos/?lesson=8)
-- [Research-focused course](https://lena-voita.github.io/nlp_course.html#main_page_content)
-- [Advanced course](https://www.coursera.org/learn/language-processing/home/welcome)
-- [NLP Masterclass: Modeling Fallacies in NLP](https://youtu.be/f2m6Mon0VE8?t=316)
-- [NLP Datasets](https://datasets.quantumstat.com)
+- **Book: [Practical NLP](https://github.com/practical-nlp/practical-nlp)**
 - Survey
     - [Eugene Yan: NLP Survey](https://eugeneyan.com/writing/nlp-supervised-learning-survey/)
     - [Pratik Bhavsar: Pytorch for NLP](https://medium.com/modern-nlp/get-pro-in-pytorch-for-nlp-60352b51fa1e)
-- Book: NLP with Pytorch
-- MadewithML and [dair.ai](http://dair.ai) chatbot materials
-    - [Survey paper](https://arxiv.org/abs/2004.03705)
-    - [MadeWithML topic curation](https://madewithml.com/topics/conversational-ai/)
-    - [Future of NLP](https://youtu.be/G5lmya6eKtc)
-    - [Level 3 AI Conference 2020](https://www.youtube.com/playlist?list=PL75e0qA87dlGP51yZ0dyNup-vwu0Rlv86)
-- Full stack ML prototype stack: FastAPI, Streamlit, Docker, Heroku
-    - [Project example 1: streamlit + fastapi](https://github.com/davidefiocco/streamlit-fastapi-model-serving/)
-    - [Project example 2](https://github.com/abhimishra91/insight)
+- Other resources
+  - [Fast AI course v4 NLP lecture](https://course.fast.ai/videos/?lesson=8)
+  - [Research-focused course](https://lena-voita.github.io/nlp_course.html#main_page_content)
+  - [Advanced course](https://www.coursera.org/learn/language-processing/home/welcome)
+  - [NLP Masterclass: Modeling Fallacies in NLP](https://youtu.be/f2m6Mon0VE8?t=316)
+  - [NLP Datasets](https://datasets.quantumstat.com)
+  - Book: NLP with Pytorch
+  - MadewithML and [dair.ai](http://dair.ai) chatbot materials
+      - [Survey paper](https://arxiv.org/abs/2004.03705)
+      - [MadeWithML topic curation](https://madewithml.com/topics/conversational-ai/)
+      - [Future of NLP](https://youtu.be/G5lmya6eKtc)
+      - [Level 3 AI Conference 2020](https://www.youtube.com/playlist?list=PL75e0qA87dlGP51yZ0dyNup-vwu0Rlv86)
+  - Full stack ML prototype stack: FastAPI, Streamlit, Docker, Heroku
+      - [Project example 1: streamlit + fastapi](https://github.com/davidefiocco/streamlit-fastapi-model-serving/)
+      - [Project example 2](https://github.com/abhimishra91/insight)
 
 #### CS602 Open Source Contributions of Your Choosing
