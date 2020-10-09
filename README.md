@@ -56,7 +56,7 @@ There are general knowledge courses and project courses.
 - **Book: Building ML Powered Applications**
 - [MLOps overview by Huyen Chip](https://huyenchip.com/2020/06/22/mlops.html)
 - [TDS Article: Big picture architecture of ML system](https://towardsdatascience.com/architecting-a-machine-learning-pipeline-a847f094d1c7)
-- [Eugene Yan: practical guide to maintaining machine learning](https://eugeneyan.com/writing/practical-guide-to-maintaining-machine-learning/)
+- [Challenges](https://eugeneyan.com/writing/challenges-after-deploying-machine-learning/) and [practical guide to maintaining machine learning](https://eugeneyan.com/writing/practical-guide-to-maintaining-machine-learning/) by Eugene Yan
 
 #### CS505 Natural Language Understanding Stanford
 - [Course page](https://web.stanford.edu/class/cs224u/2019/index.html)
@@ -89,7 +89,7 @@ There are general knowledge courses and project courses.
 
 #### CS302 Python 3
 - Basics: [Practical Python course](https://dabeaz-course.github.io/practical-python/Notes/Contents)
-- [Eugene Yan's Python project setup](https://eugeneyan.com/writing/setting-up-python-project-for-automation-and-collaboration/)**
+- [Eugene Yan's Python project setup](https://eugeneyan.com/writing/setting-up-python-project-for-automation-and-collaboration/)
 - RestAPI with [FastAPI guide](https://fastapi.tiangolo.com/tutorial/first-steps/)
     - FastAPI MadeWithML example
 - Project: DoverChat, poetry, Docker, deployed on Heroku and AWS EB
@@ -136,6 +136,8 @@ There are general knowledge courses and project courses.
   - [Fast AI course v4 NLP lecture](https://course.fast.ai/videos/?lesson=8)
   - [Research-focused course](https://lena-voita.github.io/nlp_course.html#main_page_content)
   - [Advanced course](https://www.coursera.org/learn/language-processing/home/welcome)
+  - [NLP Masterclass: Modeling Fallacies in NLP](https://youtu.be/f2m6Mon0VE8?t=316)
+  - [NLP Datasets](https://datasets.quantumstat.com)
   - Book: NLP with Pytorch
   - MadewithML and [dair.ai](http://dair.ai) chatbot materials
       - [Survey paper](https://arxiv.org/abs/2004.03705)
