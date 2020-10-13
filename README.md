@@ -130,13 +130,13 @@ There are general knowledge courses and project courses.
 
 #### CS502 NLP: projects
 - **[fastai NLP course](https://www.fast.ai/2019/07/08/fastai-nlp/)**
+- **[Awesome visual course](https://lena-voita.github.io/nlp_course.html#main_page_content)**
 - **Book: [Practical NLP](https://github.com/practical-nlp/practical-nlp)**
 - Survey
     - [Eugene Yan: NLP Survey](https://eugeneyan.com/writing/nlp-supervised-learning-survey/)
     - [Pratik Bhavsar: Pytorch for NLP](https://medium.com/modern-nlp/get-pro-in-pytorch-for-nlp-60352b51fa1e)
 - Other resources
   - [Fast AI course v4 NLP lecture](https://course.fast.ai/videos/?lesson=8)
-  - [Research-focused course](https://lena-voita.github.io/nlp_course.html#main_page_content)
   - [Advanced course](https://www.coursera.org/learn/language-processing/home/welcome)
   - [NLP Masterclass: Modeling Fallacies in NLP](https://youtu.be/f2m6Mon0VE8?t=316)
   - [NLP Datasets](https://datasets.quantumstat.com)
