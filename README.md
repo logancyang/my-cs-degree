@@ -52,11 +52,13 @@ There are general knowledge courses and project courses.
 #### CS503 [fastai: Computation Linear Algebra by Rachel Thomas](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
 
 
-#### CS504. Production Machine Learning and MLOps
+#### CS504. Overview of Production Machine Learning and MLOps
 - **Book: Building ML Powered Applications**
-- [MLOps overview by Huyen Chip](https://huyenchip.com/2020/06/22/mlops.html)
-- [TDS Article: Big picture architecture of ML system](https://towardsdatascience.com/architecting-a-machine-learning-pipeline-a847f094d1c7)
-- [Challenges](https://eugeneyan.com/writing/challenges-after-deploying-machine-learning/) and [practical guide to maintaining machine learning](https://eugeneyan.com/writing/practical-guide-to-maintaining-machine-learning/) by Eugene Yan
+- **Suggestion: take project course CS512 for hands-on practice after this course**
+- Other readings:
+  - [MLOps overview by Huyen Chip](https://huyenchip.com/2020/06/22/mlops.html)
+  - [TDS Article: Big picture architecture of ML system](https://towardsdatascience.com/architecting-a-machine-learning-pipeline-a847f094d1c7)
+  - [Challenges](https://eugeneyan.com/writing/challenges-after-deploying-machine-learning/) and [practical guide to maintaining machine learning](https://eugeneyan.com/writing/practical-guide-to-maintaining-machine-learning/) by Eugene Yan
 
 #### CS505 Natural Language Understanding Stanford
 - [Course page](https://web.stanford.edu/class/cs224u/2019/index.html)
@@ -147,5 +149,10 @@ There are general knowledge courses and project courses.
   - Full stack ML prototype stack: FastAPI, Streamlit, Docker, Heroku
       - [Project example 1: streamlit + fastapi](https://github.com/davidefiocco/streamlit-fastapi-model-serving/)
       - [Project example 2](https://github.com/abhimishra91/insight)
+
+#### CS512 Putting ML in Production by MadeWithML
+- Quote the course description: "This course isn't just about ML. In fact, it's mostly about clean software engineering! We'll cover important concepts like versioning, testing, logging, etc. that really makes this a production-grade product."
+- [course page](https://madewithml.com/courses/putting-ml-in-production/)
+- [MadeWithML youtube channel](https://www.youtube.com/c/MadeWithML/)
 
 #### CS602 Open Source Contributions of Your Choosing
