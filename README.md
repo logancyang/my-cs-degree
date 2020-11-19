@@ -1,6 +1,6 @@
-# My CS Degree (2020)
+# My CS Degree - Full-Stack ML Engineering (2020)
 
-Being a software engineer with a background in Physics, I felt the lack of a CS degree had been a limiting factor in my long-term growth. To tackle it head-on, I designed this curriculum for myself with the best resources I found online, focusing on CS basics as well as full-stack development, deep learning and natural language processing.
+Being a machine learning software engineer with a background in Physics, I felt the lack of a CS degree had been a limiting factor in my long-term growth. To tackle it head-on, I designed this curriculum for myself with the best resources I found online, focusing on CS basics as well as full-stack development, deep learning and natural language processing.
 
 There are general knowledge courses and project courses.
 
@@ -114,7 +114,7 @@ There are general knowledge courses and project courses.
     - [Streamlit get started](https://docs.streamlit.io/en/stable/)
 
 
-#### CS402 ReactJS
+#### CS402 Full-Stack Web Development, ReactJS
 - **Udemy [the complete junior to senior web developer roadmap](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/)**
 
 #### CS404. AWS Services
@@ -137,6 +137,7 @@ There are general knowledge courses and project courses.
     - [Pratik Bhavsar: Pytorch for NLP](https://medium.com/modern-nlp/get-pro-in-pytorch-for-nlp-60352b51fa1e)
 - Other resources
   - [Fast AI course v4 NLP lecture](https://course.fast.ai/videos/?lesson=8)
+  - [@amitness: How to Learn Transformers](https://twitter.com/amitness/status/1297471740012982273)
   - [Advanced course](https://www.coursera.org/learn/language-processing/home/welcome)
   - [NLP Masterclass: Modeling Fallacies in NLP](https://youtu.be/f2m6Mon0VE8?t=316)
   - [NLP Datasets](https://datasets.quantumstat.com)
@@ -150,9 +151,9 @@ There are general knowledge courses and project courses.
       - [Project example 1: streamlit + fastapi](https://github.com/davidefiocco/streamlit-fastapi-model-serving/)
       - [Project example 2](https://github.com/abhimishra91/insight)
 
-#### CS512 Putting ML in Production by MadeWithML
+#### CS512 Applied ML in Production by MadeWithML
 - Quote the course description: "This course isn't just about ML. In fact, it's mostly about clean software engineering! We'll cover important concepts like versioning, testing, logging, etc. that really makes this a production-grade product."
-- [course page](https://madewithml.com/courses/putting-ml-in-production/)
+- [course page](https://madewithml.com/courses/applied-ml-in-production/)
 - [MadeWithML youtube channel](https://www.youtube.com/c/MadeWithML/)
 
 #### CS602 Open Source Contributions of Your Choosing
