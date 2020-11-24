@@ -8,6 +8,11 @@ There are general knowledge courses and project courses.
 
 **Project courses** are the real learning process. Learning by doing is the only way to learn.
 
+If you are interested in the philosophy of the creation of this curriculum, I wrote an article about it:
+
+[How I Designed My Own Full-Stack ML Engineering Degree](https://towardsdatascience.com/how-i-designed-my-own-full-stack-ml-engineering-degree-297a31e3a3b2?sk=fe0ac0cc081b3e4734734a0e4f85f637)
+
+
 ## General knowledge courses
 
 #### CS101. Computer architectures: general intro
