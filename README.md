@@ -54,6 +54,11 @@ If you are interested in the philosophy of the creation of this curriculum, I wr
 - [Udemy Docker course](https://www.udemy.com/course/learn-docker/)
 - [Deploy ML/DL using Docker](https://youtu.be/0qG_0CPQhpg)
 
+#### **CS501 Deep Learning with PyTorch by Yann LeCun & Alfredo Canziani: knowledge**
+- **Highly recommended deep learning course!!**
+- [Course site](https://atcold.github.io/pytorch-Deep-Learning/)
+- [Youtube playlist](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
+
 #### CS503 [fastai: Computation Linear Algebra by Rachel Thomas](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
 
 
