@@ -130,7 +130,7 @@ If you are interested in the philosophy of the creation of this curriculum, I wr
 #### CS404. AWS Services
 - Book: **The Good Parts of AWS** by Daniel Vassallo
 
-#### CS501 Deep Learning with FastAI & Pytorch: projects
+#### CS500 Deep Learning with FastAI & Pytorch: projects
 - **Course v4: [https://course.fast.ai/](https://course.fast.ai/)**
 - **[fastbook](https://github.com/fastai/fastbook)**
   - **Document all answers to questionnaires**
