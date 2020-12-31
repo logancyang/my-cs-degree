@@ -127,8 +127,13 @@ If you are interested in the philosophy of the creation of this curriculum, I wr
 #### CS402 Full-Stack Web Development, ReactJS
 - **Udemy [the complete junior to senior web developer roadmap](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/)**
 
-#### CS404. AWS Services
+#### CS404 AWS Services
 - Book: **The Good Parts of AWS** by Daniel Vassallo
+
+#### CS407 iOS Development with Swift and SpriteKit
+- Optional course for mobile game development
+- youtube video: https://youtu.be/467Doas5J6I
+- Project: A sound game for instruments
 
 #### CS500 Deep Learning with FastAI & Pytorch: projects
 - **Course v4: [https://course.fast.ai/](https://course.fast.ai/)**
