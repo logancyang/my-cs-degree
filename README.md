@@ -77,7 +77,8 @@ If you are interested in the philosophy of the creation of this curriculum, I wr
 
 #### CS506 [Natural Language Processing using Deep Learning CMU](https://www.youtube.com/playlist?list=PL8PYTP1V4I8CJ7nMxMC8aXv8WqKYwj-aJ)
 
-#### CS507 [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/)
+#### CS507 Full Stack Deep Learning (Updated 2021)
+- [Course page](https://fullstackdeeplearning.com/)
 - [Project template](https://github.com/DanielhCarranza/ml-production-template)
 
 #### CS508 [Deep Learning for Computer Vision](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
