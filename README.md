@@ -94,6 +94,10 @@ If you are interested in the philosophy of the creation of this curriculum, I wr
     - [Weights & Biases Youtube video with Hamel Husain](https://youtu.be/S-kn4mmlxFU)
     - [Blog post](https://github.blog/2020-06-17-using-github-actions-for-mlops-data-science/)
 
+#### CS513 Machine Learning System Design
+- [CS329S by Chip Huyen @Stanford](https://stanford-cs329s.github.io/syllabus.html)
+- [Grokking the Machine Learning Interview](https://www.educative.io/courses/grokking-the-machine-learning-interview)
+
 ## Project courses
 
 #### CS301. Coding Interview
