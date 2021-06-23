@@ -97,6 +97,9 @@ If you are interested in the philosophy of the creation of this curriculum, I wr
 
 #### CS513 Machine Learning System Design
 - [CS329S by Chip Huyen @Stanford](https://stanford-cs329s.github.io/syllabus.html)
+
+#### CS514 Machine Learning Interview
+- [Machine Learning Interviews Book by Chip Huyen](https://huyenchip.com/ml-interviews-book/)
 - [Grokking the Machine Learning Interview](https://www.educative.io/courses/grokking-the-machine-learning-interview)
 
 ## Project courses
